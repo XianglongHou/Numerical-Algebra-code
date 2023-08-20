@@ -17,8 +17,8 @@ This repository contains C++ code implementing matrix algorithms using the STL l
 
 **Note**: *Since the course is taught in Chinese, some of the code comments and all reports are written in Chinese.*
 
-**Reference**: 数值线性代数（第二版） 徐树方等著
-------
+**Reference**:  数值线性代数（第二版） 徐树方等著
+
 
 
 
