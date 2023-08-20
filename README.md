@@ -3,4 +3,4 @@ This repository contains C++ code implementing matrix algorithms using the STL l
 
 -------
 
-**Note**: *Since the course is taught in Chinese, some of the code comments contain Chinese。*
+**Note**: *Since the course is taught in Chinese, some of the code comments contain Chinese.*
